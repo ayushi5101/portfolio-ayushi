@@ -5,7 +5,7 @@ import About from "./components/about/About";
 import Education from "./components/education/Education";
 import Contact from "./components/contact/Contact";
 import Projects from "./components/projects/Projects";
-import Services from "./components/services/services";
+import Services from "./components/services/Services.jsx";
 import Experience from "./components/Experience/Experience";
 const MainRouter = () => {
   return (
