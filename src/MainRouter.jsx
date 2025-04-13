@@ -6,7 +6,7 @@ import Education from "./components/education/Education.jsx";
 import Contact from "./components/contact/Contact.jsx";
 import Projects from "./components/projects/Projects.jsx";
 import Services from "./components/services/Services.jsx";
-import Experience from "./components/Experience/Experience.jsx";
+import Experience from "./components/experience/Experience.jsx";
 const MainRouter = () => {
   return (
     <>
