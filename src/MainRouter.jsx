@@ -1,12 +1,12 @@
 import { Route, Routes } from "react-router-dom";
 import Layout from "./Layout";
-import Home from "./components/home/Home";
-import About from "./components/about/About";
-import Education from "./components/education/Education";
-import Contact from "./components/contact/Contact";
-import Projects from "./components/projects/Projects";
+import Home from "./components/home/Home.jsx";
+import About from "./components/about/About.jsx";
+import Education from "./components/education/Education.jsx";
+import Contact from "./components/contact/Contact.jsx";
+import Projects from "./components/projects/Projects.jsx";
 import Services from "./components/services/Services.jsx";
-import Experience from "./components/Experience/Experience";
+import Experience from "./components/Experience/Experience.jsx";
 const MainRouter = () => {
   return (
     <>
