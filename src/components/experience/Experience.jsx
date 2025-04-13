@@ -1,4 +1,4 @@
-import { experience } from "./data";
+import { experience } from "./Data.jsx";
 import { Container, Row, Col, Card } from "react-bootstrap";
 
 export default function Experience() {

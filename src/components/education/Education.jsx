@@ -1,5 +1,5 @@
 import { Container, Row, Col, Card } from "react-bootstrap";
-import { educationHistory } from "./Data";
+import { educationHistory } from "./Data.jsx";
 
 export default function Education() {
   return (

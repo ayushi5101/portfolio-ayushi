@@ -1,6 +1,6 @@
 import { Container, Image, Button, Row, Col } from "react-bootstrap";
 import "./about.css";
-import Skills from "./Skills";
+import Skills from "./Skills.jsx";
 export default function About() {
   return (
     <Container className="my-5 text-center">

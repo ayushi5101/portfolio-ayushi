@@ -1,5 +1,5 @@
 import { Container, Card, Row, Col } from "react-bootstrap";
-import { services } from "./Data";
+import { services } from "./Data.jsx";
 export default function Services() {
   return (
     <Container className="my-5">

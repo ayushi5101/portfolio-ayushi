@@ -1,7 +1,7 @@
 import { Carousel } from "react-bootstrap";
 import { Button } from "react-bootstrap";
 import { Link } from "react-router-dom";
-import { missionStatements } from "./Data";
+import { missionStatements } from "./Data.jsx";
 import "./home.css"
 export default function Home() {
   return (

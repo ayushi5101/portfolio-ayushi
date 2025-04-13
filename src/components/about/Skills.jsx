@@ -1,5 +1,5 @@
 import { ProgressBar, Row, Col, Badge } from "react-bootstrap";
-import { technicalSkills, softSkills, tools } from "./Data";
+import { technicalSkills, softSkills, tools } from "./Data.jsx";
 
 function Skills() {
   return (

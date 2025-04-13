@@ -1,7 +1,7 @@
 import Card from "react-bootstrap/Card";
 import Col from "react-bootstrap/Col";
 import Row from "react-bootstrap/Row";
-import { projects } from "./Data";
+import { projects } from "./Data.jsx";
 
 export default function Projects() {
   return (
